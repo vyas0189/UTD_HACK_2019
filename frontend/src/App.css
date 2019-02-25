@@ -1,0 +1,38 @@
+.form {
+    position: relative;
+    width: 275px;
+    margin: 50px auto;
+
+}
+
+input {
+    border: none;
+    border-radius: 6px;
+    width: 20rem;
+    height: .9rem;
+    background: rgb(89, 30, 190);
+    color: #FFE;
+    font-size: 20px;
+    padding: 15px;
+}
+
+
+
+#arrow {
+    background-color: transparent;
+    border: none;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 6.5px;
+    right: -60px;
+}
+
+#arrow:hover {
+    background: black
+}
+
+.fa_custom {
+    color: #FFE;
+}

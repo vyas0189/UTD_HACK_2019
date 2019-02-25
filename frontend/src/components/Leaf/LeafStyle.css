@@ -1,0 +1,16 @@
+body {
+    padding-bottom: 10px;
+}
+
+h1,
+h2,
+p {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.leaflet-container {
+    height: 500px;
+    width: 80%;
+    margin: 0 auto;
+}
